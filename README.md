@@ -18,6 +18,7 @@
 ### ⚡ In my free time I contribute to open source projects, as well as develop my own
 ### 💬 Fun fact: I can break **anything**
 ### 📫 I can do it all- Wanna reach me? Click here: [![Linkedin Badge](https://img.shields.io/badge/-Palmer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/palmer-duckworth/)
+### 👀 Check out some of the projects I've worked on down below ⬇️
 ---
 ### 🛠️ Languages and Tools: 
 <div>
