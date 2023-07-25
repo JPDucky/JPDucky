@@ -60,3 +60,5 @@
 
 ### 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpducky&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.rercel.app/api/top-langs/?username=jpducky&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
