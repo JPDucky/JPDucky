@@ -17,7 +17,7 @@
 - 🔭 I'm currently an IT Contractor seeking for opportunities in Software
 - 🌱 I’m currently learning Rust (not affiliated with the rust foundation)
 - ⚡ In my free time I contribute to open source projects, as well as develop my own
-- 💬 Ask me about ...
+- 💬 Fun fact: I can break **anything**
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Palmer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/palmer-duckworth/)
 ---
 - 🛠️ Languages and Tools: 
