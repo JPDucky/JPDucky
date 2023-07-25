@@ -14,7 +14,7 @@
   </h1>
 </div>
 
-- 🔭 I'm currently an IT Contractor seeking for opportunities in Software
+### - 🔭 I'm currently an IT Contractor seeking for opportunities in Software
 - 🌱 I’m currently learning Rust (not affiliated with the rust foundation)
 - ⚡ In my free time I contribute to open source projects, as well as develop my own
 - 💬 Fun fact: I can break **anything**
