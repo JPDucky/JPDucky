@@ -48,10 +48,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/iconsj" title="redhat" alt="redhat" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/iconsj" title="redis" alt="redis" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/iconsj" title="rust" alt="rust" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/iconsj" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/redhat/redhat-original.svg" title="redhat" alt="redhat" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/redis/redis-original.svg" title="redis" alt="redis" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" title="neovim" alt="" width="40" height="40"/>
