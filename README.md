@@ -1,10 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="270"/>
+  <div id="badges"
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </div>
 </div>
-<div id="badges"
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-
 
 <!--
 **JPDucky/JPDucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
