@@ -47,7 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="nixos" alt="nixos" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="react" alt="react" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/master/icons/redhat/redhat-original.svg" title="redhat" alt="redhat" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/master/icons/redis/redis-original.svg" title="redis" alt="redis" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="40" height="40"/>
