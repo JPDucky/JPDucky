@@ -31,12 +31,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="fedora" alt="fedora" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/grafana/grafana-original.svg" title="grafana" alt="grafana" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="grafana" alt="grafana" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="lua" alt="lua" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="40" height="40"/>
+  <img src="" title="" alt="" width="40" height="40"/>
+  <img src="" title="" alt="" width="40" height="40"/>
+  <img src="" title="" alt="" width="40" height="40"/>
   <img src="" title="" alt="" width="40" height="40"/>
   <img src="" title="" alt="" width="40" height="40"/>
   <img src="" title="" alt="" width="40" height="40"/>
