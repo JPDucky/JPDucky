@@ -52,7 +52,7 @@
   <img src="https://github.com/devicons/devicon/tree/master/iconsj" title="redis" alt="redis" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/master/iconsj" title="rust" alt="rust" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/master/iconsj" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/iconsj" title="typescript" alt="typescript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/iconsj" title="vuejs" alt="vuejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/neovimio/neovimio-icon.svg" title="neovim" alt="neovim" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/neovimio/neovimio-icon.svg" title="neovim" alt="" width="40" height="40"/>
 </div>
