@@ -9,11 +9,10 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=JPDucky&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    A little bit about me:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
----
 
 # A little bit about me:
 Here are some ideas to get you started:
