@@ -56,3 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" title="neovim" alt="" width="40" height="40"/>
 </div>
+---
+
+### 🔥 My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpducky&theme=dark&background=000000)](https://git.io/streak-stats)
