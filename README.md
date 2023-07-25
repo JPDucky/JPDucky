@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="270"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/palmer-duckworth/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/palmer-duckworth/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div id="counter" align="center">
@@ -18,7 +17,7 @@
 ### 🌱 I’m currently learning Rust (not affiliated with the rust foundation)
 ### ⚡ In my free time I contribute to open source projects, as well as develop my own
 ### 💬 Fun fact: I can break **anything**
-### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Palmer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/palmer-duckworth/)
+### 📫 I can do it all- Wanna reach me? Click here: [![Linkedin Badge](https://img.shields.io/badge/-Palmer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/palmer-duckworth/)
 ---
 - 🛠️ Languages and Tools: 
 <div>
