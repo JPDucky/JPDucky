@@ -18,5 +18,9 @@
 - 🌱 I’m currently learning Rust (not affiliated with the rust foundation)
 - ⚡ In my free time I contribute to open source projects, as well as develop my own
 - 💬 Ask me about ...
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Palmer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/palmer-duckworth/)
-
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Palmer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/palmer-duckworth/)
+---
+- 🛠️ Languages and Tools: 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>nbsp;
+</div>
