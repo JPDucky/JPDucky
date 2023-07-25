@@ -7,7 +7,7 @@
   </a>
 </div>
 <div id="counter" align="center">
-  <img src="https://profile-counter.glitch.me/JPDucky/count.svg" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=JPDucky&style=flat-square&color=blue" alt=""/>
 </div>
 
 
