@@ -18,5 +18,5 @@
 - 🌱 I’m currently learning Rust (not affiliated with the rust foundation)
 - ⚡ In my free time I contribute to open source projects, as well as develop my own
 - 💬 Ask me about ...
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Palmer-Duckworth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/palmer-duckworth/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Palmer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/palmer-duckworth/)
 
