@@ -15,8 +15,8 @@
   </h1>
 </div>
 
-### 🔭 I'm currently an IT Contractor seeking for opportunities in Software
-### 🌱 I’m currently learning Rust (not affiliated with the rust foundation)
+### 🔭 I'm currently a Freelancer looking for larger opportunities in Software Development :)
+### 🌱 My current projects are my neovim distribution and PortalWarden (my attempt at a modern version of synergy/barrier)
 ### ⚡ In my free time I contribute to open source projects, as well as develop my own
 ### 💬 Fun fact: I can break **anything**
 ### 📫 I can do it all- Wanna reach me? Click here: [![Linkedin Badge](https://img.shields.io/badge/-Palmer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/palmer-duckworth/)
