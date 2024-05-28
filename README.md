@@ -17,9 +17,8 @@
 ###  In my free time I contribute to open source projects, as well as develop my own
 ###  Fun fact: I can break **anything**
 ###  I can do it all- Wanna reach me? Click here: [![Linkedin Badge](https://img.shields.io/badge/-Palmer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/palmer-duckworth/)
-### 👀 Check out some of the projects I've worked on down below ⬇️
 ---
-### 🛠 Languages and Tools I'm Familiar with: 
+###  Languages and Tools I'm Familiar with: 
 <div>
   <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" title="neovim" alt="" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>
